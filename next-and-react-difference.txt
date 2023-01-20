@@ -26,3 +26,7 @@ Pre-rendering helps with SEO
    With a React app, if the search engine hits your page, it only sees a div tag with id equal to root
 
    If search engine hits a pre-rendered page though, all the content is present in the source code which will help index that page
+
+   If SEO is of concern for your app,pre-rendering is what you want
+
+   
